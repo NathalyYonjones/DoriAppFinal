@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "570765068979",
+    "project_id": "dori-app-4108a",
+    "storage_bucket": "dori-app-4108a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570765068979:android:833a0bc21e2879b2ec7ec6",
+        "android_client_info": {
+          "package_name": "com.doriapp.doriapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzOKV-L_-tKw0a4o6YpuxCL7nlChWXgxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
